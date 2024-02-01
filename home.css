@@ -1,0 +1,349 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bgimage{
+    background-image: url("images/gabriel\ ghnassia\ A9h6OsAxTyQ\ unsplash\ \(1\).png");
+    width: 1920px;
+    height: 1080px;
+    opacity: 3;
+
+
+}
+.mcontent{
+    width: 1497.79px;
+    height: 1042px;
+    left: 213px;
+    text-decoration: none;
+}
+.header{
+    width: 1497.79px;
+    height: 149px;
+    left: 213px;
+}
+.logo{
+    width: 256px;
+    height: 149px;
+    margin-left: 243px;
+    background-color: #E0B973;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+.text1{
+    /* LUXURY */
+
+position: absolute;
+left: 15.26%;
+right: 77.08%;
+top: 5%;
+bottom: 97.16%;
+
+font-family: 'Adobe Garamond Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 48px;
+/* identical to box height */
+letter-spacing: 0.15em;
+
+color: #14274A;
+
+
+}
+.text2{
+    /* HOTELS */
+
+position: absolute;
+left: 17.36%;
+right: 79.32%;
+top: 10%;
+bottom: 96.79%;
+
+font-family: 'Adobe Garamond Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+letter-spacing: 0.6em;
+
+color: #14274A;
+
+
+}
+.options{
+    width: 699.79px;
+    height: 31px;
+    top: 59px;
+    left: 1011px;
+}
+.home{
+    /* Home */
+
+position: absolute;
+left: 54.84%;
+right: 43.04%;
+top: 5.82%;
+bottom: 97.26%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+
+color: #FFF;
+}
+.facilities{
+    /* Facilities */
+
+position: absolute;
+left: 62.61%;
+right: 32.71%;
+top: 5.82%;
+bottom: 97.26%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+
+color: #FFF;
+}
+.rooms{
+    /* Rooms */
+
+position: absolute;
+left: 72.7%;
+right: 22.67%;
+top: 5.82%;
+bottom: 97.26%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+
+color: #FFF;
+}
+.contact{
+    /* Contact-us */
+
+position: absolute;
+left: 81.92%;
+right: 10.9%;
+top: 5.82%;
+bottom: 97.26%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+color: #FFF;
+}
+.welcome{
+    width: 698.24px;
+    height: 328px;
+    top: 342px;
+    left: 400px;
+    
+}
+.wtext1{
+    /* WELCOME TO */
+
+position: absolute;
+left: 11.13%;
+right: 70.18%;
+top: 37.55%;
+bottom: 87.57%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+/* identical to box height */
+
+color: #FFF;
+}
+.wtext2{
+    /* LUXURY */
+
+position: absolute;
+left: 11.11%;
+right: 52.54%;
+top: 39.03%;
+bottom: 83.84%;
+
+font-family: 'Adobe Garamond Pro';
+font-style: normal;
+font-weight: 500;
+font-size: 125px;
+line-height: 185px;
+letter-spacing: 0.07em;
+
+color: #FFF;
+}
+.wtext3{
+    /* HOTELS */
+
+position: absolute;
+left: 11.09%;
+right: 70.47%;
+top: 55.59%;
+bottom: 81.19%;
+
+font-family: 'Adobe Garamond Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 60px;
+line-height: 72px;
+/* identical to box height */
+letter-spacing: 0.4em;
+
+color: #FFF;
+}
+.wtext4{
+    /* Book your stay and enjoy Luxury redefined at the most affordable rates. */
+
+position: absolute;
+left: 11.11%;
+right: 58.95%;
+top: 63.81%;
+bottom: 79.34%;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 30px;
+letter-spacing: 0.1em;
+
+color: #FFF;
+
+border: 0.5px solid #FFF;
+
+}
+.book{
+    width: 268px;
+    height: 78px;
+    top: 500px;
+    left: 826px;
+    margin-left: 750px;
+    margin-top: 180px;
+    
+}
+button{
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    width: 200px;
+    height: 55px;
+    background-color: #E0B973;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+.book p{
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-align: center;
+    width: 150px;
+    height: 29px;
+    margin-left: 30px;
+
+}
+.scroll{
+    width: 79px;
+    height: 106px;
+    top: 936px;
+    left: 920px;
+    margin-left: 810px;
+    margin-top: 200px;
+    
+}
+.scroll p{
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 1.25px;
+}
+
+.page2{
+    background: #FFF;
+}
+
+.head{
+    color: #14274A;
+    -webkit-text-stroke-width: 0.5;
+    -webkit-text-stroke-color: #14274A;
+    font-family: Montserrat;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.page2text1{
+    color: #14274A;
+    font-family: "Adobe Garamond Pro";
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 1.2px;
+    margin-top: 150px;
+    margin-left: 170px;
+}
+.page2text2{
+    color: #14274A;
+    -webkit-text-stroke-width: 0.30000001192092896;
+    -webkit-text-stroke-color: #14274A;
+    font-family: Montserrat;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 40px; /* 160% */
+    margin-top: 45px;
+    margin-left: 170px;
+}
+.page2text3{
+    margin-left: 170px;
+    margin-top: 9px;
+}
+.vertical{
+    border-left: 3px solid #14274A;
+    height: 350px;
+    position: absolute;
+    top: 1334.5px;
+    left: 120.5px;
+}
+#page2 img{
+    width: 866px;
+    height: 579px;
+    position: absolute;
+    top: 1250px;
+    left: 900px;
+}
+.box1{
+    margin-left: 50px;
+    bottom: 50px;
+}
+.box2{
+    margin-top: 70px;
+}
+
+
+
+
